@@ -85,20 +85,29 @@ Detects device movement using motion sensors and processes real-time sensor data
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmathew2003&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amalmathew2003&theme=tokyonight" height="165"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmathew2003&layout=compact&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/amalmathew2003/amalmathew2003/output/github-contribution-grid-snake-dark.svg" alt="Amal's contribution snake" width="100%"/>
+</p>
+
+<br/>
+
+## ⚡ Quick Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1%2B%20Year-Professional%20Experience-2E9EF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3-Public%20Projects-2E9EF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-2E9EF7?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/amalmathew2003" alt="Amal's contribution heatmap" width="100%"/>
+  <img src="https://img.shields.io/badge/State%20Management-BLoC%20%7C%20Provider%20%7C%20Riverpod%20%7C%20GetX-1B1F3B?style=for-the-badge"/>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalmathew2003&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/Backend-Firebase%20%7C%20Supabase%20%7C%20REST%20APIs-1B1F3B?style=for-the-badge"/>
 </p>
 
 <br/>
