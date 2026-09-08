@@ -71,14 +71,21 @@ Flutter Developer based in **Thrissur, Kerala**, building responsive, cross-plat
 ### 🎙️ [Voice Note App](https://github.com/amalmathew2003/note-app)
 AI-powered voice note app using **Hive** for local storage and **Groq AI** for speech-to-text and text generation — offline storage, real-time transcription, and a responsive UI.
 `Flutter` `Hive` `Groq AI`
+[![Download APK](https://img.shields.io/badge/Download-APK-success?style=flat-square&logo=android&logoColor=white)](https://github.com/amalmathew2003/note-app/releases/latest)
 
 ### 🗺️ [Travel Tracker App](https://github.com/amalmathew2003/travelapp)
 Tracks live and background movement via GPS, displays routes on interactive maps, calculates distance traveled, and gives animated achievement alerts.
 `Flutter` `GPS` `Maps`
+[![Download APK](https://img.shields.io/badge/Download-APK-success?style=flat-square&logo=android&logoColor=white)](https://github.com/amalmathew2003/travelapp/releases/latest)
 
 ### 🏃 [Motion Detection App](https://github.com/amalmathew2003/MotionDetectionApp)
-Detects device movement using motion sensors and processes real-time sensor data for activity monitoring.
+Detects device movement using motion sensors and processes real-time sensor data for activity monitoring and anti-theft alerts.
 `Flutter` `Sensors`
+[![Download APK](https://img.shields.io/badge/Download-APK-success?style=flat-square&logo=android&logoColor=white)](https://github.com/amalmathew2003/MotionDetectionApp/releases/latest)
+
+### 🧰 ServiceHub
+A Flutter app built with **Clean Architecture** (data/domain/presentation layers), BLoC/Cubit for state management, Firebase Authentication, and get_it for dependency injection.
+`Flutter` `Clean Architecture` `BLoC` `Firebase`
 
 <br/>
 
@@ -99,7 +106,7 @@ Detects device movement using motion sensors and processes real-time sensor data
 
 <p align="center">
   <img src="https://img.shields.io/badge/1%2B%20Year-Professional%20Experience-2E9EF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3-Public%20Projects-2E9EF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/4-Public%20Projects-2E9EF7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Based%20in-Kerala%2C%20India-2E9EF7?style=for-the-badge"/>
 </p>
 
