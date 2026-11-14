@@ -156,10 +156,10 @@ Flutter Developer based in **Thrissur, Kerala**. I build fast, responsive, cross
   <img src="https://img.shields.io/badge/Kerala-India-22D3EE?style=for-the-badge&logoColor=0F172A"/>
 </p>
 
-## 🐉 Dragon
+## 🐉 Skeleton Dragon
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amalmathew2003/amalmathew2003/main/dragon.svg" alt="Animated dragon flying across the night sky" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amalmathew2003/amalmathew2003/main/dragon-skeleton.svg" alt="Glowing skeleton dragon flying under the name Amal Mathew" width="100%"/>
 </p>
 
 <div align="center">
