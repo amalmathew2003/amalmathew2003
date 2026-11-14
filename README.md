@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=220&section=header&text=Amal%20Mathew&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/amalmathew2003/amalmathew2003/main/dragon-skeleton.svg" alt="Glowing skeleton dragon flying under the name Amal Mathew" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%92%9C;Firebase+%7C+Supabase+%7C+REST+APIs;BLoC+%7C+Provider+%7C+Riverpod;Building+Beautiful+Cross-Platform+Apps" alt="Typing SVG" />
 
@@ -154,12 +154,6 @@ Flutter Developer based in **Thrissur, Kerala**. I build fast, responsive, cross
   <img src="https://img.shields.io/badge/1%2B%20Years-Experience-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/5-Featured%20Projects-EC4899?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kerala-India-22D3EE?style=for-the-badge&logoColor=0F172A"/>
-</p>
-
-## 🐉 Skeleton Dragon
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amalmathew2003/amalmathew2003/main/dragon-skeleton.svg" alt="Glowing skeleton dragon flying under the name Amal Mathew" width="100%"/>
 </p>
 
 <div align="center">
